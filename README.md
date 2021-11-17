@@ -1,4 +1,4 @@
-# sap-api-integrations-supplier-invoice-events  
+# sap-api-integrations-purchasing-info-record-events 
 sap-api-integrations-purchasing-info-record-events は、外部システム(特にエッジコンピューティング環境)をSAPと統合することを目的として、SAP上で発生した購買情報レコードイベントを、SAP API で出力するマイクロサービスです。  
 sap-api-integrations-purchasing-info-record-events には、サンプルのAPI Json フォーマットが含まれています。
 sap-api-integrations-purchasing-info-record-events は、オンプレミス版である（＝クラウド版ではない）SAPS4HANABusinessEvents の利用を前提としています。クラウド版APIを利用する場合は、ご注意ください。  
